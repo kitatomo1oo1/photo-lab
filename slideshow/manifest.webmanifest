@@ -1,0 +1,30 @@
+{
+  "name": "スライドショー工房",
+  "short_name": "スライドショー",
+  "lang": "ja",
+  "description": "写真を選ぶだけで、音楽つきのスライドショー動画を作れます。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1f1f1f",
+  "theme_color": "#1f1f1f",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
